@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JS**
 
-- 📫 How to reach me **earn.vpn@gmail.com**
+- 📫 How to reach me **contact@pavankumar.social**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
