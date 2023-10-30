@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-1000&show_icons=true&locale=en" alt="p-1000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-1000&" alt="p-1000" /></p>
+
+[![An image of @p1000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p1000)](https://holopin.io/@p1000)
+
