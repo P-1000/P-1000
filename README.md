@@ -67,7 +67,6 @@
 
 [![An image of @p1000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p1000)](https://holopin.io/@p1000)
 
-<img src="https://raw.githubusercontent.com/p-1000/p-1000/output/snake.svg" alt="Snake animation" />
 
 ###
 
