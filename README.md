@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is PAVAN KUMAR PATCHIKARLA and I'm a FULL STACK WEB DEVELOPER from HYDERABAD INDIA</h2>
+<h2 align="left">Hi</h2>
 
 ###
 
